@@ -17,7 +17,8 @@ Minecraft JE datapack,Bedrock Edition can also be implemented using functions
 
 the function of this pack is simple. when bats spawn, it will be killed (/kill),the effective range is a radius of 200
 
-i do not recommend use this pack alone,best to use it with another resourcepack:https://github.com/Oururis/IBat,because bats make noise when killed,especially in Skyblock,you can imagine that,squeak nonstop
+i do not recommend use this pack alone,best to use it with another resourcepack:https://github.com/Oururis/IBat
+because bats make noise when killed,especially in Skyblock,you can imagine that,squeak nonstop
 
 if you also play skyblock,then this datapack is definitely suitable for you,there are only two functions commands, without any redundant modification,and it will not conflict with any mod,resource,datapacka
 
