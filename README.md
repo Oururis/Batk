@@ -13,6 +13,8 @@
 
 如果你不会或者不想自己修改,可以到我的github上提交,有时间我会制作,大概
 
+效果展示https://www.bilibili.com/video/BV1Xk4y1578y/?spm_id_from=333.999.0.0
+
 Minecraft JE datapack,Bedrock Edition can also be implemented using functions
 
 the function of this pack is simple. when bats spawn, it will be killed (/kill),the effective range is a radius of 200
@@ -28,3 +30,5 @@ datapacks are only tested in single player games,multiplayer games are unknown.t
 if anyversion doesn't work,you can try to fix it yourself
 
 and you can’t or don’t want to do that,submit it to my github,i will make it,,maybe XD
+
+Effect：https://youtu.be/K5Uh3Ol28C4
