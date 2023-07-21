@@ -2,7 +2,7 @@
 我的世界JAVA版数据包,基岩版也能实现类似功能,好像是用Addon还是什么,我给忘了,反正也是用函数实现
 
 这个数据包有两个版本，Batk1.0，它的功能很简单,在检测到蝙蝠时将它传送至~ -128 ~
-另一个版本是NbatS(NoBatSpawn),它的功能是禁止蝙蝠的生成(已经存在的蝙蝠不会受到影响)，目前还在编写中，稍后我会上传
+另一个版本是NbatS(NoBatSpawn),它的功能是禁止蝙蝠的生成(已经存在的蝙蝠不会受到影响)，目前还在计划中
 
 数据包仅在单人游戏测试,多人游戏未知，实际上这也只是我自用的，服务器玩家应该查看服务器插件，很多插件都能高度自定义世界规则
 理论从1.13(也就是刚开始支持数据包的版本)开始能一直支持到1.20.1
@@ -14,8 +14,8 @@
 
 Minecraft JE datapack,Bedrock Edition can also be implemented using functions
 
-this datapack has two versions: Batk1.0, which has a simple function, it TP bats to ~ -128 ~ when spawn
-the other version is NbatS(NoBatSpawn), which prevents bats from spawning(existing bats won't be affected), Currently, it's still a work in progress, and I'll upload it later
+this datapack has two versions: Batk1.0, which has a simple function - it TP bats to ~ -128 ~ when Spawn
+the other version is NbatS (NoBatSpawn), which prevents bats from spawning (existing bats won't be affected). Currently, it's still in planning.
 
 please note that I've only tested this datapack in single player mode, and its compatibility in multiplayer is unknown. Actually, it's just for my personal use. Server players should check server plugins as many plugins offer highly customizable world rules
 
@@ -24,4 +24,4 @@ theoretically, it should work from version 1.13 (the version that first supporte
 If it doesn't work in some versions, you can try fixing it yourself.
 
 If you don't know how or don't want to modify it, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Cheers
-Effect：[https://youtu.be/K5Uh3Ol28C4](https://youtu.be/6tHPaMQNTI4)https://youtu.be/6tHPaMQNTI4
+Effect：https://youtu.be/6tHPaMQNTI4
