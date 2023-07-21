@@ -25,4 +25,5 @@ theoretically, it should work from version 1.13 (the version that first supporte
 If it doesn't work in some versions, you can try fixing it yourself.
 
 If you don't know how or don't want to modify it, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Cheers
+
 Effect：https://youtu.be/6tHPaMQNTI4
