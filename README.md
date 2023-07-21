@@ -18,12 +18,14 @@ Minecraft JE datapack,Bedrock Edition can also be implemented using functions
 this datapack has two versions: Batk1.0, which has a simple function - it TP bats to ~ -128 ~ when Spawn
 the other version is NbatS (NoBatSpawn), which prevents bats from spawning (existing bats won't be affected). Currently, it's still in planning.
 
-please note that I've only tested this datapack in single player mode, and its compatibility in multiplayer is unknown. Actually, it's just for my personal use. Server players should check server plugins as many plugins offer highly customizable world rules
+the datapack is only tested in the 1.16.3 single player game , and the multiplayer game is unknown
 
-theoretically, it should work from version 1.13 (the version that first supported data packs) and remain compatible until 1.20.1.
+theoretically, it can be supported from 1.13 (that is, the version started to support the datapack) to 1.20.1. 
 
 If it doesn't work in some versions, you can try fixing it yourself.
 
 If you don't know how or don't want to modify it, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Cheers
+
+in fact, this is only for my own use. server players should check the server plugin. Many plugins can highly customize the world rules
 
 Effect：https://youtu.be/6tHPaMQNTI4
