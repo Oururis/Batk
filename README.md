@@ -8,8 +8,7 @@
 理论从1.13(也就是刚开始支持数据包的版本)开始能一直支持到1.20.1  
 如果有不起作用的版本,你可以尝试自己修一下
 如果你不会或者不想自己修改,可以到我的github上提交,有时间我会制作,大概  
-[效果展示](示https://www.bilibili.com/video/BV1Xk4y1578y/?spm_id_from=333.999.0.0)  
-
+[效果展示](https://www.bilibili.com/video/BV1Xk4y1578y/?spm_id_from=333.999.0.0)  
 ## Minecraft JE datapack  
 Bedrock Edition can also be implemented using functions  
 this datapack has two versions: Batk1.0, which has a simple function - it TP bats to ~ -128 ~ when Spawn  
