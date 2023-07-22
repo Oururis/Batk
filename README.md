@@ -7,7 +7,7 @@
 理论从1.13(也就是刚开始支持数据包的版本)开始能一直支持到1.20.1  
 如果有不起作用的版本,你可以尝试自己修一下
 如果你不会或者不想自己修改,可以到我的github上提交,有时间我会制作,大概  
-效果展示https://www.bilibili.com/video/BV1Xk4y1578y/?spm_id_from=333.999.0.0
+[效果展](示https://www.bilibili.com/video/BV1Xk4y1578y/?spm_id_from=333.999.0.0)
 
 Minecraft JE datapack,Bedrock Edition can also be implemented using functions  
 this datapack has two versions: Batk1.0, which has a simple function - it TP bats to ~ -128 ~ when Spawn  
@@ -17,4 +17,4 @@ theoretically, it can be supported from 1.13 (that is, the version started to su
 If it doesn't work in some versions, you can try fixing it yourself.  
 If you don't know how or don't want to modify it, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Cheers  
 in fact, this is only for my own use. server players should check the server plugin. Many plugins can highly customize the world rules  
-Effect：https://youtu.be/6tHPaMQNTI4
+[Effect](https://youtu.be/6tHPaMQNTI4)
